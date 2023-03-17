@@ -8,5 +8,4 @@
 Andreius-14/Andreius-14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Bitacora:
-1-Sin la mas minima Idea de como usar github y Github de Escritorio 
+WARHAMMER 40 000 💀
