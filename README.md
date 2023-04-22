@@ -9,3 +9,4 @@ Andreius-14/Andreius-14 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 WARHAMMER 40 000 💀
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreius-14&show_icons=true&theme=transparent)
