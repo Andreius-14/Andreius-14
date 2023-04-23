@@ -22,7 +22,7 @@
  <a href="" target="_blank" rel="noreferrer" display="margin: auto 5px;"> 
    <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="neovim"  /> </a>
   
-<a href="https://manjaro.org/" target="_blank" rel="noreferrer"> 
+<a href="https://manjaro.org/download/" target="_blank" rel="noreferrer"> 
    <img align="center" height="30"  src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fefebe03-a53d-405c-8a24-0e98899b1a6d.png?auto=format&q=50&w=128&h=128&fit=max&dpr=3" alt="manjaro" /> </a>
 
   <a href="https://nvchad.com/" target="_blank" rel="noreferrer"> 
