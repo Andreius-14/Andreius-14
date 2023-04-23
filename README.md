@@ -19,7 +19,7 @@
 
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -
- <a href="" target="_blank" rel="noreferrer" > 
+ <a href="" target="_blank" rel="noreferrer" display="margin: auto 5px;"> 
    <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="neovim"  /> </a>
   
 <a href="https://manjaro.org/" target="_blank" rel="noreferrer"> 
@@ -33,6 +33,7 @@
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
    <img align="center" height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /> </a>
+ 
   <a href="https://sw.kovidgoyal.net/kitty/" target="_blank" rel="noreferrer"> 
    <img align="center" height="30"  src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" alt="Git" /> </a>
   
