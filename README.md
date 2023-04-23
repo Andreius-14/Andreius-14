@@ -35,7 +35,7 @@
    <img align="center" height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /> </a>
  
   <a href="https://sw.kovidgoyal.net/kitty/" target="_blank" rel="noreferrer"> 
-   <img align="center" height="30"  src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" alt="Git" /> </a>
+   <img align="center" height="30"  src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" alt="Kitty" /> </a>
   
 </div>
 
