@@ -16,11 +16,11 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -
  <a href="" target="_blank" rel="noreferrer"> 
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="neovim"  /> </a>
+   <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="neovim"  /> </a>
   
 <a href="https://manjaro.org/" target="_blank" rel="noreferrer"> 
    <img align="center" height="30"  src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fefebe03-a53d-405c-8a24-0e98899b1a6d.png?auto=format&q=50&w=128&h=128&fit=max&dpr=3" alt="manjaro" /> </a>
