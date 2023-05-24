@@ -8,6 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreius-14&layout=compact&theme=dark"/> 
 </div>
 
+<a href="https://web.facebook.com/AndresPalomino.Carlos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AndresPalomino.Carlos" height="30" width="40" /></a>
+</p>
 
 ## Herramientas y Tecnologias
 <div style="display: inline_block"><br>
